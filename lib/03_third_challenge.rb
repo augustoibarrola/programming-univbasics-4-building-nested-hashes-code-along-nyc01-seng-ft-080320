@@ -15,24 +15,24 @@ def third_challenge
         :status => "Alive"
         },
       :hero_friends => [:Benvolio, :Mercutio]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
-        :age => "50" 
+        :age => "50"
         },
       :matriarch => {
         :name => "Lady Capulet",
-        :age => "51" 
+        :age => "51"
         },
       :heroine => {
         :name => "Juliet",
         :age => "15",
-        :status => "Alive" 
+        :status => "Alive"
         },
       :heroine_friends => [:Steven, :Nurse]
    }
   }
 
-  
+
 end
